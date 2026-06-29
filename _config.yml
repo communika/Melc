@@ -1,0 +1,2 @@
+theme: null
+exclude: ['.github', 'node_modules', 'vendor/bundle/', 'vendor/cache/', 'vendor/gems/', 'vendor/ruby/', '.gitignore', '.nojekyll']

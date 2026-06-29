@@ -1,0 +1,22 @@
+# Dossiers
+node_modules/
+vendor/
+.sass-cache/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+npm-debug.log*
+
+# Fichiers temporaires
+temp/
+tmp/
+*.temp
